@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee606032-d376-4f5d-9c22-67914ce49afb" name="Default Changelist" comment="" />
+    <list default="true" id="ee606032-d376-4f5d-9c22-67914ce49afb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goog_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/goog_example.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z4Q40VdMaU8gY4o7TnJHPoSWbL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/goog_example.py" />
   </component>
   <component name="RunManager">
@@ -69,5 +77,21 @@
       <screen x="0" y="44" width="1366" height="724" />
     </state>
     <state x="466" y="165" width="430" height="481" key="FileChooserDialogImpl/0.44.1366.724@0.44.1366.724" timestamp="1584100002882" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1584104356784">
+      <screen x="0" y="44" width="1366" height="724" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.44.1366.724@0.44.1366.724" timestamp="1584104356784" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1584104356783">
+      <screen x="0" y="44" width="1366" height="724" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.44.1366.724@0.44.1366.724" timestamp="1584104356783" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1584104356783">
+      <screen x="0" y="44" width="1366" height="724" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.44.1366.724@0.44.1366.724" timestamp="1584104356783" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1584104356784">
+      <screen x="0" y="44" width="1366" height="724" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.44.1366.724@0.44.1366.724" timestamp="1584104356784" />
   </component>
 </project>
